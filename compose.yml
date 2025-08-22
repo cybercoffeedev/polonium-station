@@ -1,0 +1,10 @@
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: polonium-server
+    ports:
+      - "1212:1212/tcp"
+      - "1212:1212/udp"
+    restart: unless-stopped
