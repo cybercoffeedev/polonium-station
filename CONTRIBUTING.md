@@ -341,7 +341,3 @@ Zaleca się również zapoznanie z [poradnikiem Slartiego](https://hackmd.io/@Sl
 ---
 
 _Te konwecje zostały opracowane na podstawie [zasad](https://docs.spacestation14.com/en/general-development/codebase-info.html) zdefiniowanych przez Wizardów (uzupełnione/przetłumaczone/skrócone)_
-
-```
-
-```
