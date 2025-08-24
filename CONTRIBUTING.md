@@ -285,14 +285,14 @@ Kroki:
 1. **Zrób forka repozytorium (jeśli jeszcze go nie masz).**
    Na stronie głównej repozytorium kliknij przycisk Fork w prawym górnym rogu -> **"Create Fork"**.
 
-![Fork](https://imgur.com/zY02sep)
+![1](https://github.com/user-attachments/assets/77617856-2bf3-480e-9fcd-0b9f680e7fbe)
 
 2. **Edytuj pliki w forku.**
 
 -   Wejdź w interesujący cię plik `.ftl` lub `.yml`, kliknij ikonę ołówka (✏️) i dokonaj zmian.
 -   Zapisz zmiany poprzez Commit changes.
 
-![Edytuj](https://imgur.com/tqLyYC4)
+![2](https://github.com/user-attachments/assets/3a36894c-5eb1-4cca-9713-1cb12dc7d1d4)
 
 -   Zrób to dla każdego pliku, który chcesz zmienić.
 
@@ -300,13 +300,13 @@ Kroki:
 
 -   Kliknij zakładkę Pull Requests i wybierz opcję utworzenia nowego.
 
-![New Pull Request](https://imgur.com/lYU6FfQ)
+![3](https://github.com/user-attachments/assets/c7fd6ead-37fa-4391-acb9-b20a5e89fcca)
 
 4. **Wybierz źródło i cel PRa.**
 
 -   Upewnij się, że źródłem jest twój fork, a celem – nasze repozytorium (gałąź master).
 
-![PR](https://imgur.com/sKDrr9a)
+![4](https://github.com/user-attachments/assets/97f7d2a1-1697-4191-9d27-b0dc5350da34)
 
 5. **Wypełnij formularz Pull Requesta zgodnie ze wzorem (tytuł, opis zmian, powód, ewentualne dodatkowe informacje).**
 
