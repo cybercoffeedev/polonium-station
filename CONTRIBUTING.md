@@ -282,12 +282,13 @@ Ten sposób polecamy, jeśli dopiero zaczynasz i chcesz zmienić coś prostego (
 
 Kroki:
 
-1. **Zrób forka repozytorium (jeśli jeszcze go nie masz).**
-   Na stronie głównej repozytorium kliknij przycisk Fork w prawym górnym rogu -> **"Create Fork"**.
+#### 1. **Zrób forka repozytorium (jeśli jeszcze go nie masz).**
+
+Na stronie głównej repozytorium kliknij przycisk Fork w prawym górnym rogu -> **"Create Fork"**.
 
 ![1](https://github.com/user-attachments/assets/77617856-2bf3-480e-9fcd-0b9f680e7fbe)
 
-2. **Edytuj pliki w forku.**
+#### 2. **Edytuj pliki w forku.**
 
 -   Wejdź w interesujący cię plik `.ftl` lub `.yml`, kliknij ikonę ołówka (✏️) i dokonaj zmian.
 -   Zapisz zmiany poprzez Commit changes.
@@ -296,19 +297,19 @@ Kroki:
 
 -   Zrób to dla każdego pliku, który chcesz zmienić.
 
-3. **Przejdź do oryginalnego repozytorium (polonium14/polonium-station).**
+#### 3. **Przejdź do oryginalnego repozytorium (polonium14/polonium-station).**
 
 -   Kliknij zakładkę Pull Requests i wybierz opcję utworzenia nowego.
 
 ![3](https://github.com/user-attachments/assets/c7fd6ead-37fa-4391-acb9-b20a5e89fcca)
 
-4. **Wybierz źródło i cel PRa.**
+#### 4. **Wybierz źródło i cel PRa.**
 
 -   Upewnij się, że źródłem jest twój fork, a celem – nasze repozytorium (gałąź master).
 
 ![4](https://github.com/user-attachments/assets/97f7d2a1-1697-4191-9d27-b0dc5350da34)
 
-5. **Wypełnij formularz Pull Requesta zgodnie ze wzorem (tytuł, opis zmian, powód, ewentualne dodatkowe informacje).**
+#### 5. **Wypełnij formularz Pull Requesta zgodnie ze wzorem (tytuł, opis zmian, powód, ewentualne dodatkowe informacje).**
 
 Po wysłaniu PR trafi do nas do sprawdzenia. Jeśli wszystko będzie w porządku, zostanie scalony i twoje zmiany pojawią się w głównym repozytorium 🎉
 
@@ -325,11 +326,8 @@ W takim przypadku postępujesz zgodnie z procedurą z [tego punktu](https://gith
 **Najważniejsze kroki:**
 
 1. Tworzysz nową gałąź,
-
 2. Resetujesz ją do stanu `master` repozytorium głównego (PS14),
-
 3. Pracujesz tylko na tej czystej historii,
-
 4. Wysyłasz gałąź na swojego forka i robisz Pull Request.
 
 Dzięki temu unikasz bałaganu w commitach i możesz spokojnie pracować równolegle nad różnymi projektami.
