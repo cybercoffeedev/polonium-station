@@ -4,7 +4,7 @@ ghost-gui-ghost-roles-button = Role Ducha ({$count})
 ghost-gui-toggle-ghost-visibility-popup-on = Włączono widoczność duchów.
 ghost-gui-toggle-ghost-visibility-popup-off = Wyłączono widoczność duchów.
 ghost-gui-toggle-lighting-manager-popup-normal = Oświetlenie standardowe.
-ghost-gui-toggle-lighting-manager-popup-personal-light = Enabled personal light.
+ghost-gui-toggle-lighting-manager-popup-personal-light = Włączono światło własne.
 ghost-gui-toggle-lighting-manager-popup-fullbright = Tryb pełnej jasności.
 ghost-gui-toggle-fov-popup = Przełączono pole widzenia.
 
