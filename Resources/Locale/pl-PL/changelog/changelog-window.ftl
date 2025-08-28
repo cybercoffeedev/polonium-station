@@ -5,7 +5,7 @@ changelog-author-changed = [color=#EEE]{ $author }[/color] zmienił(-a):
 changelog-today = Dzisiaj
 changelog-yesterday = Wczoraj
 changelog-new-changes = nowe zmiany
-changelog-version-unknown = Nieznana wersja
+changelog-version-unknown = Nieznana Wersja
 changelog-version-tag = { $fork }/{ $version }
 
 changelog-button = Lista zmian

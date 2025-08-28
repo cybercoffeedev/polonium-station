@@ -5,7 +5,7 @@ chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {
 examine-headset-default-channel = Użyj {$prefix} aby rozmawiać na domyślnym kanale ([color={$color}]{$channel}[/color]).
 
 chat-radio-common = Wspólny
-chat-radio-centcom = CentDow
+chat-radio-centcom = CentComm
 chat-radio-command = Dowództwo
 chat-radio-engineering = Inżynieryjny
 chat-radio-medical = Medyczny
