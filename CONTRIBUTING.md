@@ -193,7 +193,7 @@ Aby to obejść, powinieneś mieć jeden **wspólny fork**, na którym będziesz
 Kluczowe jest, aby ten fork miał **poprawnie skonfigurowane remote'y**.
 
 Oto jak wyglądają twoje działania, gdy chesz mieć "drugi fork":
--# Te kroki opisują również zwykły przebieg pracy na poszczególnych gałęziach
+*(Te kroki opisują również zwykły przebieg pracy na poszczególnych gałęziach)*
 
 1. Upewnij się, że masz już sklonowany istniejący fork na swoim komputerze.
 
