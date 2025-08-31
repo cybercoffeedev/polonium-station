@@ -123,7 +123,7 @@ public class Player
 
 -   ⚠️ Nie zapomnij również o sklonowaniu modułów podrzędnych: `git submodule update --init --recursive`
 
-Szczegółowe informacje na temat pracy na gałęziach znajdziesz [tutaj](
+Szczegółowe informacje na temat pracy na gałęziach znajdziesz [tutaj](#1-mam-ju%C5%BC-forka-ss14-na-swoim-profilu-wi%C4%99c-github-nie-pozwala-mi-utworzy%C4%87-forka-ps14-jak-mog%C4%99-to-obej%C5%9B%C4%87)
 
 #### 1. Twórz osobne PR dla zmian funkcji, poprawek błędów, czyszczenia i refaktoryzacji.
 
